@@ -1,7 +1,50 @@
-# HARVEST-HUB
-HARVEST-HUB: Direct Farmer-to-Consumer Marketplace
-Agriculture is the backbone of India, yet farmers often struggle to receive fair compensation for their hard work. A major reason for this imbalance lies in the traditional supply chain, where middlemen and distributors dominate the process. These intermediaries purchase produce from farmers at very low prices and then resell it to consumers at much higher rates. While distributors profit, farmers are left with minimal income, and customers end up paying inflated prices for essential goods. This cycle has created a persistent challenge in ensuring both farmer welfare and consumer affordability.
 
-It is an application which helps to eliminate the 3rd person Involvement In the marketing So this helps For the former Do make a direct Connection With the customers And get better value for their products
+# TypeScript
 
-HARVEST-HUB is designed to break this cycle by eliminating the role of middlemen and establishing a direct connection between farmers and consumers. By leveraging technology, the platform enables farmers to list their products, set fair prices, and sell directly to customers. This ensures that farmers receive the correct value for their produce based on quantity and quality, while consumers gain access to fresh agricultural products at market-aligned or lower prices.
+[![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml)
+[![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
+[![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/TypeScript)
+
+
+[TypeScript](https://www.typescriptlang.org/) is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. Try it out at the [playground](https://www.typescriptlang.org/play/), and stay up to date via [our blog](https://blogs.msdn.microsoft.com/typescript) and [Twitter account](https://twitter.com/typescript).
+
+Find others who are using TypeScript at [our community page](https://www.typescriptlang.org/community/).
+
+## Installing
+
+For the latest stable version:
+
+```bash
+npm install -D typescript
+```
+
+For our nightly builds:
+
+```bash
+npm install -D typescript@next
+```
+
+## Contribute
+
+There are many ways to [contribute](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md) to TypeScript.
+* [Submit bugs](https://github.com/microsoft/TypeScript/issues) and help us verify fixes as they are checked in.
+* Review the [source code changes](https://github.com/microsoft/TypeScript/pulls).
+* Engage with other TypeScript users and developers on [StackOverflow](https://stackoverflow.com/questions/tagged/typescript).
+* Help each other in the [TypeScript Community Discord](https://discord.gg/typescript).
+* Join the [#typescript](https://twitter.com/search?q=%23TypeScript) discussion on Twitter.
+* [Contribute bug fixes](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see
+the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
+with any additional questions or comments.
+
+## Documentation
+
+*  [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+*  [Programming handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+*  [Homepage](https://www.typescriptlang.org/)
+
+## Roadmap
+
+For details on our planned features and future direction, please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
